@@ -13,7 +13,7 @@ Iniciando aprendizado com JavaScript e React.
 - 🔭 Estou trabalhando com análise de sistemas
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
 - 👯 Desenvolver sites é o que eu gosto de fazer
-- 📫 Como me contatar para prestar serviços: <a href="https://www.linkedin.com/in/benilda-bento-432b03a6/" target="_blank" rel="noopener noreferrer">
+- 📫 Como entrar em contato comigo: <a href="https://www.linkedin.com/in/benilda-bento-432b03a6/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 - ⚡ Curiosidade: gosto de trabalhar com equipes, gosto de aprender coisas novas, 
