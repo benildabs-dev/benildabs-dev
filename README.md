@@ -8,7 +8,7 @@ Sou Benilda Bento, sou uma programadora front end, atualmente estou aprendendo e
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 - <img src="https://img.icons8.com/?size=48&id=108784&format=png"/>
 
-Iniciando aprendizado com JavaScript e React.
+"A vida é um eterno aprendizado"
 
 - 🔭 Estou trabalhando com análise de sistemas
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
