@@ -17,5 +17,4 @@ Iniciando aprendizado com JavaScript e React.
   </a>
 - ⚡ Curiosidade: gosto de trabalhar com equipes, gosto de aprender coisas novas, 
 
-[![Benilda Stats](https://github-readme-stats.vercel.app/api?username=benildabs-dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benildabs-dev)](https://github.com/anuraghazra/github-readme-stats)
+
